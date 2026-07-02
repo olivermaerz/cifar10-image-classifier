@@ -1,0 +1,8 @@
+venv/
+data/
+.DS_Store
+model.pth
+test_data/
+*.zip
+*.tar.gz
+
